@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/coding-terminal.gif" alt="Código Java, TypeScript e Docker sendo digitado em um editor" width="100%" />
+  <img src="./assets/coding-terminal.gif" alt="Código apresentando Matheus e suas tecnologias" width="100%" />
 
   <h1>Olá, eu sou o Matheus 👋</h1>
 
@@ -26,18 +26,45 @@
 
 <br />
 
-```bash
-$ git status
+<h2 align="center">Minha atividade no GitHub</h2>
 
-On branch fullstack-development
+<div align="center">
+  <img
+    src="./assets/github-stats.svg"
+    alt="Estatísticas de commits, pull requests, issues e contribuições de Matheus"
+    width="520"
+  />
+</div>
 
-Backend       Java • Spring Boot
-Frontend      React • TypeScript
-Database      PostgreSQL
-Tools         Docker • Git • GitHub Actions • Maven
-Building      BarberBook
-Learning      every single day
-```
+<br />
+
+<div align="center">
+  <img
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    alt="Calendário tridimensional de contribuições no GitHub"
+    width="100%"
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./assets/github-snake.svg"
+    />
+    <img
+      src="./assets/github-snake.svg"
+      alt="Animação das contribuições no GitHub"
+      width="100%"
+    />
+  </picture>
+</div>
 
 <br />
 
